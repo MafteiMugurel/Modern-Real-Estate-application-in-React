@@ -10,10 +10,10 @@ This is a [Next.js](https://nextjs.org/) project.
 
 ![Real-Estate](./demo/demo-search.png)
 
-## Home Page
+## Buy property Page
 
 ![Real-Estate](./demo/demo-buy-property.png)
 
-## Home Page
+## Rent property Page
 
 ![Real-Estate](./demo/demo-rent-property.png)
