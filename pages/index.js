@@ -30,9 +30,7 @@ const Banner = ({
         {desc2}
       </Text>
       <Button fontSize="x1" bg="blue.300" color="white">
-        <Link href={linkName}>
-          <a>{buttonText}</a>
-        </Link>
+        <Link href={linkName}>{buttonText}</Link>
       </Button>
     </Box>
   </Flex>

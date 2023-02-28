@@ -5,8 +5,8 @@ import { BsGridFill } from "react-icons/bs";
 import { GoVerified } from "react-icons/go";
 import millify from "millify";
 
-import { baseUrl, fetchApi } from "../../utils/fetchApi";
-import ImageScrollbar from "../../components/ImageScrollbar";
+import { baseUrl, fetchApi } from "../../utils/feachApi";
+import ImageScrollbar from "../../components/ImageScrollbar.jsx";
 
 const PropertyDetails = ({
   propertyDetails: {
